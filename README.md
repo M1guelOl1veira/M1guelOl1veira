@@ -1,7 +1,8 @@
 ## Seja bem-vindo ao meu GitHub!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.ao1086@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-a85b84228)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-a85b84228)
+
  
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1guelOl1veira&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
  
