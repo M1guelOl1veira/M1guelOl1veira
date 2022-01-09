@@ -13,10 +13,12 @@
   <img align="left" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="left" alt="Rafa-Csharp" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="left" alt="Rafa-Csharp" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
- ![Snake animation](https://github.com/M1guelOl1veira/M1guelOl1veira/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 ![Snake animation](https://github.com/M1guelOl1veira/M1guelOl1veira/blob/output/github-contribution-grid-snake.svg)
+
+
 
   
 
